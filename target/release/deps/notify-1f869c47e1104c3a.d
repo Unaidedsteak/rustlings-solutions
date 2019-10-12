@@ -1,0 +1,12 @@
+/home/zyphen/Projects/rustlings/rustlings/target/release/deps/notify-1f869c47e1104c3a.rmeta: /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/lib.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/inotify.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/null.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/poll.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/debounce/mod.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/debounce/timer.rs
+
+/home/zyphen/Projects/rustlings/rustlings/target/release/deps/libnotify-1f869c47e1104c3a.rlib: /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/lib.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/inotify.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/null.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/poll.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/debounce/mod.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/debounce/timer.rs
+
+/home/zyphen/Projects/rustlings/rustlings/target/release/deps/notify-1f869c47e1104c3a.d: /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/lib.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/inotify.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/null.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/poll.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/debounce/mod.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/debounce/timer.rs
+
+/home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/lib.rs:
+/home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/inotify.rs:
+/home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/null.rs:
+/home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/poll.rs:
+/home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/debounce/mod.rs:
+/home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.13/src/debounce/timer.rs:

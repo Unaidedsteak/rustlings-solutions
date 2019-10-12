@@ -1,0 +1,12 @@
+/home/zyphen/Projects/rustlings/rustlings/target/release/deps/inotify-415ff534b6f6a0c1.rmeta: /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/lib.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/events.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/fd_guard.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/inotify.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/util.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/watches.rs
+
+/home/zyphen/Projects/rustlings/rustlings/target/release/deps/libinotify-415ff534b6f6a0c1.rlib: /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/lib.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/events.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/fd_guard.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/inotify.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/util.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/watches.rs
+
+/home/zyphen/Projects/rustlings/rustlings/target/release/deps/inotify-415ff534b6f6a0c1.d: /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/lib.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/events.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/fd_guard.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/inotify.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/util.rs /home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/watches.rs
+
+/home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/lib.rs:
+/home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/events.rs:
+/home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/fd_guard.rs:
+/home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/inotify.rs:
+/home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/util.rs:
+/home/zyphen/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.6.1/src/watches.rs:

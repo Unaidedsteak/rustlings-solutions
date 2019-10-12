@@ -1,0 +1,1 @@
+/home/zyphen/Projects/rustlings/rustlings/target/release/rustlings: /home/zyphen/Projects/rustlings/rustlings/src/exercise.rs /home/zyphen/Projects/rustlings/rustlings/src/main.rs /home/zyphen/Projects/rustlings/rustlings/src/run.rs /home/zyphen/Projects/rustlings/rustlings/src/verify.rs
